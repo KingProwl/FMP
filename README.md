@@ -13,20 +13,17 @@ PI² School project for AssetSagacity
 1. Download the zip file 
 1. With Node.js command prompt, navigate where you downloaded the file and go to the FMPnodejs folder using :
 ```
-cd FMP-node.js-PI2-master
+cd FMP-master
 ```
-then 
-```
-cd FMPnodejs
-```
+
 ***
 
 ## Install dependencies
 
-When you are in the FMPnodejs folder, you need to install express/bootstrap/nunjucks/mongoose using:
+When you are in the FMP-master folder, you need to install express/bootstrap/nunjucks/mongoose using:
 
 ```
-npm install --save express mongoose nunjucks bootstrap
+npm install 
 ```
 ***
 ## MongoDB
